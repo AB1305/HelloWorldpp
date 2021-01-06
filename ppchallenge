@@ -1,0 +1,17 @@
+#SO you want to say hello to this world in noob coders way 
+#there u go 
+the_worst_one="pHp"
+w=the_worst_one[1]
+my_fav_word="noobcoders"
+h=my_fav_word[7]
+l=['lol','you','motherf****r','my','pp','is','small','too']
+i=l[0][0]
+t=l[6][3]
+k=('WHAT!','so','small','d***',)
+e=k[1][1]
+h_=k[0][0]
+a=k[1][1]
+t_=l[2][11]
+j=k[2][4]
+r=k[3][0]
+print(w+h+i+t+e,"",h_+a+t_+j+r)
